@@ -7,4 +7,4 @@
 
 ----------------------------
 ### :zap: 연습을 바탕으로 작성한 [쇼핑몰 페이지](https://github.com/chanjin5212/html-python/tree/master/shoppingmall) :handbag:
-![쇼핑몰](https://user-images.githubusercontent.com/97499271/166939727-ee89de72-6746-4b32-829e-4a07d1f2e73b.png)
+![쇼핑몰](https://user-images.githubusercontent.com/97499271/166939727-ee89de72-6746-4b32-829e-4a07d1f2e73b.png) 
